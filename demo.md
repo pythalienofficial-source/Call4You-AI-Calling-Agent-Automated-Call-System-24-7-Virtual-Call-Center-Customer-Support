@@ -4,5 +4,5 @@
 
 This AI handled **247 calls last week** and booked **89 qualified meetings**.
 
-👉 [Watch Demo](https://call4you.lovable.app)  
-👉 [Book a Demo](https://call4you.lovable.app)
+👉 [Watch Demo](https://call4you.lovable.app#demo)  
+👉 [Book a Demo](https://call4you.lovable.app#demo)
