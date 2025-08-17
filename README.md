@@ -3,7 +3,7 @@
 **Stop Losing Money to Missed Calls.**
 Every missed call is a lost customer choosing your competitor. Call4You’s AI agent never sleeps, never takes breaks, and converts prospects while you sleep.
 
-👉 [Book a Demo](https://call4you.lovable.app) | [Watch Demo](https://call4you.lovable.app)
+👉 [Book a Demo](https://call4you.lovable.app) | [Watch Demo](https://call4you.lovable.app#demo)
 
 ---
 
@@ -42,7 +42,7 @@ Your competitors are already using AI. Don’t let them steal your customers.
 | **Pro** | $1,199/mo  | 2,000 minutes (~666 calls) | 4x calls, Account manager, Custom integrations |
 | **Custom Setup** | $4,000 one-time | Pay-per-usage | Full ownership, API access, Enterprise setup |
 
-👉 [Get Started](https://call4you.lovable.app) | [Book a Demo](https://call4you.lovable.app)
+👉 [Get Started](https://call4you.lovable.app) | [Book a Demo](https://call4you.lovable.app#demo)
 
 ---
 
@@ -65,7 +65,7 @@ Your competitors are already using AI. Don’t let them steal your customers.
 
 This AI handled **247 calls last week** and booked **89 qualified meetings**.
 
-👉 [Watch Demo](https://call4you.lovable.app)  
+👉 [Watch Demo](https://call4you.lovable.app#demo)  
 👉 [Book a 15-min Demo](https://call4you.lovable.app)
 
 ---
